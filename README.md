@@ -60,7 +60,7 @@ Payment Flow:
 User → React Frontend → Django Backend → MySQL Database  
 User → Razorpay Payment Gateway → Platform Account → Driver  
 
-          * Key Innovation *
+           * Key Innovation *
 The system removes direct financial interaction between user and driver, ensuring:
 
 - Complete privacy protection  
