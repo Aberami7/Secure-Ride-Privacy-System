@@ -57,11 +57,11 @@ Payment Flow:
 - Payment Gateway: Razorpay  
 
          * System Architecture *
-User → React Frontend → Django Backend → MySQL Database  
-User → Razorpay Payment Gateway → Platform Account → Driver  
+  User → React Frontend → Django Backend → MySQL Database  
+  User → Razorpay Payment Gateway → Platform Account → Driver  
 
            * Key Innovation *
-The system removes direct financial interaction between user and driver, ensuring:
+  The system removes direct financial interaction between user and driver, ensuring:
 
 - Complete privacy protection  
 - No identity leakage through payments  
