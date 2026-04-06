@@ -1,6 +1,6 @@
                                                      Secure-Ride-Privacy-System
 
-          Abstract
+         * Abstract *
 This project is a secure ride-booking application designed to protect user privacy during ride transactions. It eliminates direct user-driver payment interaction by integrating a secure payment gateway, ensuring that sensitive information such as phone numbers and UPI IDs are not exposed.
 
           Problem Statement
