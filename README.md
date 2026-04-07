@@ -19,8 +19,8 @@ In many ride-hailing systems, users often pay drivers directly using UPI applica
 - A secure and controlled payment flow is maintained  
 
         * Secure Payment Integration *
-The system integrates **Razorpay** as the payment gateway.
-Payment Flow:
+ The system integrates **Razorpay** as the payment gateway.
+ Payment Flow:
 1. User books a ride  
 2. User initiates payment via Razorpay  
 3. Payment is securely processed  
