@@ -11,7 +11,7 @@ In many ride-hailing systems, users often pay drivers directly using UPI applica
 - Lack of privacy control after payment  
 
         * Proposed Solution *
-This project introduces a **privacy-preserving payment mechanism** using a payment gateway.
+ This project introduces a **privacy-preserving payment mechanism** using a payment gateway.
 
 - Payments are processed through the platform instead of directly to drivers  
 - User and driver identities are hidden during transactions  
