@@ -74,4 +74,4 @@ In many ride-hailing systems, users often pay drivers directly using UPI applica
 - Real-world applicable system  
 
            * Conclusion *
-This project demonstrates a practical approach to securing digital payments in ride services by integrating a payment gateway and eliminating direct user-driver interaction. It enhances privacy,security, and overall user safety.
+ This project demonstrates a practical approach to securing digital payments in ride services by integrating a payment gateway and eliminating direct user-driver    interaction. It enhances privacy,security, and overall user safety.
