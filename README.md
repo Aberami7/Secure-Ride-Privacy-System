@@ -1,4 +1,4 @@
-                                                     Secure-Ride-Privacy-System
+                                                  Privacy Protection Payment System for Secure Ride Services
 
          * Abstract *
 This project is a secure ride-booking application designed to protect user privacy during ride transactions. It eliminates direct user-driver payment interaction by integrating a secure payment gateway, ensuring that sensitive information such as phone numbers and UPI IDs are not exposed.
@@ -105,6 +105,8 @@ In many ride-hailing systems, users often pay drivers directly using UPI applica
   <img width="1893" height="896" alt="Screenshot 2026-04-06 210949" src="https://github.com/user-attachments/assets/a4e5b458-c775-4057-ab6d-57f43e884907" />
 
         * Safety Center *
+    
+   <img width="1599" height="1599" alt="image" src="https://github.com/user-attachments/assets/4d734d8d-5621-41fd-957c-d8521895d491" />
    <img width="1887" height="893" alt="Screenshot 2026-04-07 103727" src="https://github.com/user-attachments/assets/a032eba3-bc5e-43d1-b634-7c77bf22b09e" />
    <img width="1920" height="1020" alt="Screenshot 2026-04-07 103623" src="https://github.com/user-attachments/assets/2e883f82-7699-4d82-90a3-43ba3c714acb" />
 
