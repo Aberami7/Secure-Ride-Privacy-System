@@ -1,4 +1,4 @@
-                                        Privacy-Preserving Secure Payment System for Ride Services
+                                    Privacy-Preserving Secure Payment System for Ride Services
 
 
          * Abstract *
